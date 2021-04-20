@@ -1,0 +1,5 @@
+This is a test to check git functionality
+I have created a branch called `base-1` and now adding a files called hasan.txt
+I will not be saving this file and then pushing this branch to remote (GitHub).
+For fun I will call the remote branch base-1-r
+EOF
